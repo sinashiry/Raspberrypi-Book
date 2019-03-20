@@ -6,6 +6,7 @@ You can reveiw some pages of book from [here](http://164.138.18.205/DataBase/boo
 
 The authors of the book are Hossein Aalamshahi and Sina Shiri that published the 2nd edition of book on July 26, 2017.
 ## Contact Us
-if you have problems about codes, you can send us an email:
-rpi.persian.ref@gmail.com
-Or send message by [Telegram](https://telegram.org/) messenger:[@sina_shiry](http://t.me/sina_shiry)
+if you have problems about codes,
+you can send us an email:
+* rpi.persian.ref@gmail.com
+* Or send message by [Telegram](https://telegram.org/) messenger:[@sina_shiry](http://t.me/sina_shiry)
