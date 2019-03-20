@@ -8,3 +8,4 @@ The authors of the book are Hossein Aalamshahi and Sina Shiri that published the
 ## Contact Us
 if you have problems about codes, you can send us an email:
 rpi.persian.ref@gmail.com
+Or send message by [Telegram](https://telegram.org/) messenger:[@sina_shiry](http://t.me/sina_shiry)
