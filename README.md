@@ -1,4 +1,4 @@
-## Raspberry Pi Reference Book
+## Raspberry Pi Reference Book (in Persian)
 This is all codes repository for [Raspberry Pi Reference](http://ketab.ir/bookview.aspx?bookid=2146633), published by [Elmiran](https://www.chaponashr.ir/elmiran). This repository contains all the project codes and files that are necessary to work through the book from Chapter 5 to Chapter 9.
 ## About the Book
 
