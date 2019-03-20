@@ -5,7 +5,6 @@ The Book contains 13 chapters and has been tried to teach all reader need to kno
 You can reveiw some pages of book from [here](http://164.138.18.205/DataBase/bookpdf/96/96504071.pdf).
 
 The authors of the book are Hossein Aalamshahi and Sina Shiri that published the 2nd edition of book on July 26, 2017.
-## Instructions and Navigations
-
-
-## The requirements for this book are the following:
+## Contact Us
+if you have problems about codes, you can send us an email:
+rpi.persian.ref@gmail.com
